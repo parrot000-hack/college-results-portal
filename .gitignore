@@ -1,0 +1,6 @@
+﻿backend/venv/
+backend/results.db
+frontend/node_modules/
+frontend/dist/
+.env
+__pycache__/
